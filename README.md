@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi 👋, I'm William Otto
 
-<!--
-**William-Otto/William-Otto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Ruby & Python
 
-Here are some ideas to get you started:
+📫 How to reach me will.otto.@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact My favorite game is CSGO.
+
+*visitors*
+
+Connect with me:
+
+
+Languages and Tools:
